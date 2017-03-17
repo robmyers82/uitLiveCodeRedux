@@ -1,6 +1,6 @@
-#liveCodeRedux
+# liveCodeRedux
 
-##A UIT live code module to show React's interaction with Redux to deliver state
+## A UIT live code module to show React's interaction with Redux to deliver state
 
 **Please note:**
 
